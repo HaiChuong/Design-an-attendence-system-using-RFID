@@ -1,0 +1,210 @@
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\Home\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\Project\95.QLSV\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\1.Personal\1.KhacDinh\100.Common\5.Other\1.Test\32.QUan ly Diem danh sinh vien rfid - offline\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\Project\95.QLSV\4.Code winform\4.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\Project\95.QLSV\Ver2\3.Code winform\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\Project\95.QLSV\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\LVTN\Ver2\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\LVTN\LVTN\3.Code winform+ SQL\2.Winform\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\EPPlus.dll
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\EPPlus.Interfaces.dll
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\EPPlus.System.Drawing.dll
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\EPPlus.xml
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.frmConnect.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.fAccountProfile.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.fAdmin.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.fLogin.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.fTableManager.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\LVTN\app\winform SQL\winform\QLSV\QLSV\obj\Debug\QLSV.pdb
